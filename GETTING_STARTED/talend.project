@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_oAl2gcKPEe2nPtyvfIXpIg" label="getting-started" language="java" technicalLabel="GETTING_STARTED" author="_oAmdkMKPEe2nPtyvfIXpIg" productVersion="Talend Cloud Data Fabric-8.0.1.20230515_1349-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Talend-PreSales/talend-cloud-getting-started.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_oAl2gcKPEe2nPtyvfIXpIg" label="getting-started" language="java" technicalLabel="GETTING_STARTED" author="_oAmdkMKPEe2nPtyvfIXpIg" productVersion="Talend Cloud Data Fabric-8.0.1.20220923_1236-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Talend-PreSales/talend-cloud-getting-started.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_oCOOMMKPEe2nPtyvfIXpIg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_oAmdkMKPEe2nPtyvfIXpIg" login="msullivan@vga.talend.com" firstName="Matthew" lastName="Sullivan" type="DQ"/>
-  <TalendProperties:User xmi:id="_cakukACpEe6KpNpIRZ4b5Q" login="sswan@vga.talend.com" firstName="Simon" lastName="Swan" type="DQ"/>
 </xmi:XMI>
