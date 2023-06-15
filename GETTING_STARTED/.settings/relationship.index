@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_ttNncAuTEe6874-1qjXpRg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_yCoIgAuTEe6874-1qjXpRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yCoIgAuTEe6874-1qjXpRg - sales_order_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
